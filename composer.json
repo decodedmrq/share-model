@@ -1,0 +1,8 @@
+{
+   "name":"myshare-model",
+   "autoload":{
+      "psr-4":{
+         "CompanyShared\\":"src/"
+      }
+   }
+}
