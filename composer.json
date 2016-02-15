@@ -1,5 +1,5 @@
 {
-   "name":"myshare-model",
+   "name":"quyen.nv/myshare-model",
    "autoload":{
       "psr-4":{
          "CompanyShared\\":"src/"
