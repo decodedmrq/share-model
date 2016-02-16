@@ -1,7 +1,6 @@
 <?php
 namespace mysharemodel\Model
 
-use mysharemodel\Model\Task;
 
 class Task extends Model
 {

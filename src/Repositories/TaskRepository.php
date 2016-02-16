@@ -1,7 +1,7 @@
 <?php
 namespace mysharemodel\Repositories
 
-use mysharemodel\Task;
+use mysharemodel\Model\Task;
 
 class TaskRepository
 {
