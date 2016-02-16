@@ -1,9 +1,0 @@
-{
-
-"name": "share-model",
-"autoload": {
-  "psr-4": {
-   "ShareModel\\": "src/"
-  }
-}
-}
