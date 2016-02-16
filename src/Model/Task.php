@@ -1,5 +1,5 @@
 <?php
-namespace mysharemodel\Model
+namespace mysharemodel\Model;
 
 use Illuminate\Database\Eloquent\Model;
 

@@ -1,5 +1,5 @@
 <?php
-namespace mysharemodel\Repositories
+namespace mysharemodel\Repositories;
 
 use mysharemodel\Model\Task;
 use mysharemodel\Model\User;
@@ -12,7 +12,7 @@ class TaskRepository
      * @param  User  $user
      * @return Collection
      */
-    public function forUser(User $user)
+    public function getTaskByUserID($user)
     {
         return Task::where('user_id', $user->id)
                     ->orderBy('created_at', 'asc')
