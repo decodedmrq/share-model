@@ -1,8 +1,13 @@
 {
    "name":"quyen.nv/myshare-model",
+   "require": {
+	    "php": ">=5.5.9",
+	    "illuminate/support": "5.*",
+	    "illuminate/database": "5.*"
+  	},
    "autoload":{
       "psr-4":{
-         "myshare-model\\":"src/"
+         "mysharemodel\\":"src/"
       }
    }
 }
