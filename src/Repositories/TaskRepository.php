@@ -2,6 +2,7 @@
 namespace mysharemodel\Repositories
 
 use mysharemodel\Model\Task;
+use mysharemodel\Model\User;
 
 class TaskRepository
 {
